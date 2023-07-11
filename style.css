@@ -8,7 +8,9 @@
 }
 
 .banner-text {
-    font-size: 60px;
+    font-size: 80px;
+font-style: normal;
+font-weight: 800;
 }
 
 .banner-description {
